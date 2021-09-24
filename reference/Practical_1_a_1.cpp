@@ -5,13 +5,13 @@ using namespace std;
 
 int main()
 {
-    int numbers[] = {1, 5, 6, 3, 45, 23, 1, 2};
+    int elements[] = {1, 15, 6, 32, 45, 23, 11, 42};
     int i;
     int x = 23;
     bool result = false;
     for (i = 0; i < 8; i++)
     {
-        if (numbers[i] == x)
+        if (elements[i] == x)
         {
             result = true;
             break;

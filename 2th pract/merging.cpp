@@ -21,7 +21,7 @@ int main()
     
     for(int i=0;i<s3;i++)
     {
-        cout<<c[i]<<endl;
+        cout<<c[i];
     }
     
 }

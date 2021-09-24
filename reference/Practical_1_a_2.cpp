@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int array[] = {1, 45, 23, 5, 4, 34, 18};
+	int array[] = {1, 45, 23, 5, 14, 36, 28};
 	int i;
 	for (i = 0; i <= 6; i++)
 	{
@@ -22,7 +22,7 @@ int main()
 	cout << "Sorted array" << endl;
 	for (i = 0; i <= 6; i++)
 	{
-		cout << array[i] << " ";
+		cout << array[i] << ", ";
 	}
 	return 0;
 }

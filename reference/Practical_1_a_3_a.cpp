@@ -13,6 +13,8 @@ int main()
         a[i] = a[j];
         a[j] = t;
     }
+    
+    cout<<"Reversed array :"<<endl;
     for (int i = 0; i < 6; i++)
     {
         cout << a[i] << " ";
