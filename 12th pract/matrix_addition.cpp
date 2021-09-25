@@ -8,7 +8,7 @@ int main()
     {
         for(int j=0; j<2; j++)
         {
-            cout<<"Enter element for 1st matrix";
+            cout<<"Enter element ";
             cin>>a[i][j];
         }
         
@@ -19,7 +19,7 @@ int main()
     {
          for(int j=0; j<2; j++)
         {
-            cout<<"Enter element for 2nd matrix";
+            cout<<"Enter element ";
             cin>>b[i][j];
         }
     }
