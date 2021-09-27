@@ -28,12 +28,9 @@ int main()
     add(6);
     add(11);
     add(78);
-    add(35);
-    add(99);
-    add(32);
-    add(76);
+    
 
-    for(int i=1; i<=9; i++)
+    for(int i=1; i<=5; i++)
     {
         cout<<h[i]<<"  ";
     }
