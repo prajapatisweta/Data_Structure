@@ -43,7 +43,7 @@ int main()
     int o,d;
     for(int i=0;i<10;i++)
     {
-        cout<<"enter edge";
+        cout<<"Enter edges : ";
         cin>>o>>d;
         if((o==-1)&&(d==-1))
         {
